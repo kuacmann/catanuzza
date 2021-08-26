@@ -1,0 +1,22 @@
+nav {
+  background-color: #575757;
+  font-size: 2rem; }
+
+nav ul li {
+  color: yellow; }
+
+.slider_main {
+  background-position: center;
+  min-height: 60vh;
+  background-attachment: fixed;
+  display: flex;
+  align-items: center; }
+  .slider_main .col-12 {
+    display: flex;
+    align-items: center;
+    justify-content: center; }
+
+.slider_title {
+  padding: 1.5vw;
+  text-align: center;
+  font-size: 2rem; }
